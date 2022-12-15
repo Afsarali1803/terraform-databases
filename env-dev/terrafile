@@ -1,0 +1,7 @@
+docdb:
+    source:  "https://github.com/Afsarali1803/tf-module-docdb.git"
+    version: "main"  # This can be the branch name like your `dev``
+
+
+
+    
