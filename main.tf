@@ -7,7 +7,7 @@ module "docdb" {
     ENV                 = var.ENV 
 }
 
-module "redis" {
-    source              = "./vendor/modules/redis"  
-    ENV                 = var.ENV 
-}
+# module "redis" {
+#     source              = "./vendor/modules/redis"  
+#     ENV                 = var.ENV 
+# }
