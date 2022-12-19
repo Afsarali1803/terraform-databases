@@ -2,13 +2,13 @@ docdb:
     source:  "https://github.com/Afsarali1803/tf-module-docdb.git"
     version: "main"  # This can be the branch name like your `dev``
 
-redis:
+<!-- redis:
     source:  "https://github.com/Afsarali1803/tf-module-redis.git"
     version: "main"  # This can be the branch name like your `dev``   
 
 mysql:  
     source:  "https://github.com/Afsarali1803/tf-module-mysql.git"
-    version: "main"  # This can be the branch name like your `dev``     
+    version: "main"  # This can be the branch name like your `dev``      -->
 
 
     
