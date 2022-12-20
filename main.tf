@@ -3,11 +3,11 @@
 # }
 
 module "docdb" {
-    source              = "./vendor/modules/docdb"  
-    ENV                 = var.ENV 
+  source                    = "./vendor/modules/docdb"  
+  ENV                       = var.ENV 
 }
 
-module "sqldb" {
-    source              = "./vendor/modules/sqldb"  
-    ENV                 = var.ENV 
+module "mysql" {
+  source                   = "./vendor/modules/mysql"  
+  ENV                      = var.ENV 
 }
